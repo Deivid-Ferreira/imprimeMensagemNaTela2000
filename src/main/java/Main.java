@@ -26,6 +26,6 @@ public class Main {
     
 // Metodo de saida
     // System.out.println("Aprovação é "+aprovado);
-    // System.out.println("Cliente servido ? " +clienteServido);
+  
   }
 }
